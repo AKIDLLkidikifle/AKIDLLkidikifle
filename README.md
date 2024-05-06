@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **e-commerce web application**
 
-- 💬 Ask me about **react, javascript, ejs**
+- 💬 Ask me about **react, Angular, javascript, ejs**
 
 - 📫 How to reach me **kidistkifle31@gmail.com**
 
